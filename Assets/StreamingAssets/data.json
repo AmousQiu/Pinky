@@ -1,0 +1,28 @@
+{
+  "startSceneData": {
+    "gameTitle": "Try to help Pinky light up the room",
+    "buttonText": "Light up the room",
+    "nextScene": "Game"
+  },
+  "gameSceneData": {
+    "winScene": "Win",
+    "gameOverScene": "Game Over",
+    "wicksNeededToWin": 7,
+    "upThrust": 9000,
+    "sideVelocity": 300,
+    "forceOfGravity": 60,
+    "wickHeight": 70,
+    "stickHeight": 900
+  },
+  "winSceneData": {
+    "winSceneHeading": "You have successfully light the room!!",
+    "buttonText": "Tap to return to start screen",
+    "nextScene": "Start"
+  },
+  "gameOverSceneData": {
+    "gameOverSceneHeading": "Watttt, you just killed pinky, murder",
+    "buttonText": "Well, tap me for another chance!",
+    "nextScene": "Start"
+  },
+  "firstScene": "Main"
+}
